@@ -1,0 +1,116 @@
+1038	Spring Flowers	1	800
+1050	Cattle Ranch	1	10000
+1103	Trail End	1	8000
+1042	Coffee on the Trail	2	7544
+1013	Superstitions	3	78000
+1021	Bead Wall	3	14000
+1034	Beaver Pole Jumble	3	28000
+1063	Asleep in the Garden	3	110000
+1070	Beginnings	4	27500
+1036	Blackhawk	5	25500
+1017	Brittlecone	6	1300
+1053	Blue Eyed Indian	6	40000
+1056	Cavalry Is Coming	6	1900
+1075	Western Boots and Spurs	6	6000
+1077	Bull Riding	6	5200
+1049	Buttercup with Red Lip	7	400
+1018	Mountain Scene	8	2500
+1055	Starlit Evening	9	9500
+1096	Ceremonial Sticks	10	15000
+1090	Off the Grid	11	8000
+1003	Spring Flowers	12	2400
+1081	Coming Under Fire	13	650
+1039	Treachery	14	20000
+1102	Crying Hats	14	10000
+1073	Dancing in the Light	15	4000
+1052	American Rodeo	16	3500
+1059	Dwelling	17	16000
+1005	The Hang	18	8000
+1011	Eve	19	975
+1099	Watch That Rattler	20	900
+1037	Floating World	7	2350
+1109	Friends	8	16000
+1084	Crossing the Platt River	9	2200
+1072	Funnel	10	4500
+1115	Starry Night	11	8500
+1008	End of the Path	12	1900
+1112	Dark Canyon	13	8000
+1009	Amen	14	3000
+1030	Ash Bench	14	13000
+1043	Creosote Bushes	15	18000
+1078	Chuckwagon	16	32000
+1041	Night Version	17	3800
+1082	Spring Flowers	18	20000
+1116	Apache Warrior	19	23000
+1029	Horseshoe Falls	20	15000
+1006	House Remembered	14	700
+1046	Immediate Gratification	14	1500
+1031	Inside/Out	15	3500
+1107	Striking It Rich	16	1750
+1051	Night Version	17	7000
+1088	Lessons	18	3700
+1045	Leaf Patterns	19	2100
+1100	Hungry Cowboys	20	750
+1094	Life Is Sweet	18	25000
+1106	Horse Corral	19	12500
+1062	Cowboy and Saddle	20	18000
+1032	Rising Sun	7	2000
+1060	Story Sticks	8	650
+1044	Mexican Fiesta	9	14000
+1047	Medicine Man	10	2500
+1014	Plenty	14	500
+1015	Punch	14	10000
+1023	Shooting the Rapids	15	1300
+1027	Mountain Climber	16	4700
+1035	Nature/Nurture	17	1300
+1040	Night on the Praire	18	1300
+1065	Moonlite 	19	1300
+1092	Dressing Up	20	1300
+1024	Spirit and Nature	7	592
+1067	Owl in Flight	8	7000
+1001	Red Rock Mountain	9	18000
+1028	Tired Cowboy	10	4700
+1054	Snake Charmer	7	4500
+1068	Moonlight	8	9750
+1069	Renaissance	9	5500
+1113	Shadow House	10	5500
+1114	Storytelling at the Campfire	7	18000
+1064	Spirit Columns	8	7000
+1002	Offerings 	9	10000
+1089	Life Lessons	10	4125
+1091	Stone Palette	7	11500
+1074	Storm on the Rise	8	8000
+1098	Sweet Project	9	592
+1048	Comfy Chair	10	800
+1101	The Red Door	2	10000
+1080	The Dust Behind	3	18000
+1058	The Gathering	3	250
+1019	The White Heart	3	9300
+1095	The Spirit	3	20000
+1079	Carrying the Mail	4	8000
+1093	Antelopes 	5	12500
+1110	Three Sisters	6	6500
+1085	Traces	6	20000
+1004	Seeking Shelter	6	52000
+1083	Untitled	6	2500
+1016	Untitled	6	6000
+1026	Untitled (couple)	7	4000
+1057	Untitled	8	4500
+1086	Untitled (desert landscape)	2	18000
+1025	Profile of a Woman	3	625
+1022	The Cowboy	3	4200
+1104	Untitled 	3	1800
+1010	Untitled (land with adobe)	3	800
+1111	Untitled (man and crucifix)	4	3200
+1020	Untitled (Man holding coat)	5	3000
+1012	Man on Horseback	6	8000
+1097	Untitled (Sea)	6	2800
+1066	Untitled (still life)	6	19500
+1033	Untitled (Woman abstract)	6	2500
+1108	Untitled Mural	6	400
+1061	Untitled Mural	7	3520
+1071	Ride the Rapids	8	300
+1076	Ride the Bronco	14	1500
+1105	Meteor Show	15	10000
+1087	Three Woman	16	20000
+1007	Homage to the Ancestors	17	1200

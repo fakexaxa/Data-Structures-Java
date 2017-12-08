@@ -1,0 +1,233 @@
+Rynnand Arriola
+1         	Acconci                      Spring Flowers                1038      800       
+
+1         	Acconci                      Cattle Ranch                  1050      10000     
+
+1         	Acconci                      Trail End                     1103      8000      
+
+2         	Budd                         Coffee on the Trail           1042      7544      
+
+2         	Budd                         The Red Door                  1101      10000     
+
+2         	Budd                         Untitled (desert landscape)   1086      18000     
+
+3         	Carpenter                    Superstitions                 1013      78000     
+
+3         	Carpenter                    Bead Wall                     1021      14000     
+
+3         	Carpenter                    Beaver Pole Jumble            1034      28000     
+
+3         	Carpenter                    Asleep in the Garden          1063      110000    
+
+3         	Carpenter                    The Dust Behind               1080      18000     
+
+3         	Carpenter                    The Gathering                 1058      250       
+
+3         	Carpenter                    The White Heart               1019      9300      
+
+3         	Carpenter                    The Spirit                    1095      20000     
+
+3         	Carpenter                    Profile of a Woman            1025      625       
+
+3         	Carpenter                    The Cowboy                    1022      4200      
+
+3         	Carpenter                    Untitled                      1104      1800      
+
+3         	Carpenter                    Untitled (land with adobe)    1010      800       
+
+4         	Dill                         Beginnings                    1070      27500     
+
+4         	Dill                         Carrying the Mail             1079      8000      
+
+4         	Dill                         Untitled (man and crucifix)   1111      3200      
+
+5         	Edwards                      Blackhawk                     1036      25500     
+
+5         	Edwards                      Antelopes                     1093      12500     
+
+5         	Edwards                      Untitled (Man holding coat)   1020      3000      
+
+6         	Fleming                      Brittlecone                   1017      1300      
+
+6         	Fleming                      Blue Eyed Indian              1053      40000     
+
+6         	Fleming                      Cavalry Is Coming             1056      1900      
+
+6         	Fleming                      Western Boots and Spurs       1075      6000      
+
+6         	Fleming                      Bull Riding                   1077      5200      
+
+6         	Fleming                      Three Sisters                 1110      6500      
+
+6         	Fleming                      Traces                        1085      20000     
+
+6         	Fleming                      Seeking Shelter               1004      52000     
+
+6         	Fleming                      Untitled                      1083      2500      
+
+6         	Fleming                      Untitled                      1016      6000      
+
+6         	Fleming                      Man on Horseback              1012      8000      
+
+6         	Fleming                      Untitled (Sea)                1097      2800      
+
+6         	Fleming                      Untitled (still life)         1066      19500     
+
+6         	Fleming                      Untitled (Woman abstract)     1033      2500      
+
+6         	Fleming                      Untitled Mural                1108      400       
+
+7         	Garber                       Buttercup with Red Lip        1049      400       
+
+7         	Garber                       Floating World                1037      2350      
+
+7         	Garber                       Rising Sun                    1032      2000      
+
+7         	Garber                       Spirit and Nature             1024      592       
+
+7         	Garber                       Snake Charmer                 1054      4500      
+
+7         	Garber                       Storytelling at the Campfire  1114      18000     
+
+7         	Garber                       Stone Palette                 1091      11500     
+
+7         	Garber                       Untitled (couple)             1026      4000      
+
+7         	Garber                       Untitled Mural                1061      3520      
+
+8         	Higgins                      Mountain Scene                1018      2500      
+
+8         	Higgins                      Friends                       1109      16000     
+
+8         	Higgins                      Story Sticks                  1060      650       
+
+8         	Higgins                      Owl in Flight                 1067      7000      
+
+8         	Higgins                      Moonlight                     1068      9750      
+
+8         	Higgins                      Spirit Columns                1064      7000      
+
+8         	Higgins                      Storm on the Rise             1074      8000      
+
+8         	Higgins                      Untitled                      1057      4500      
+
+8         	Higgins                      Ride the Rapids               1071      300       
+
+9         	Ibe                          Starlit Evening               1055      9500      
+
+9         	Ibe                          Crossing the Platt River      1084      2200      
+
+9         	Ibe                          Mexican Fiesta                1044      14000     
+
+9         	Ibe                          Red Rock Mountain             1001      18000     
+
+9         	Ibe                          Renaissance                   1069      5500      
+
+9         	Ibe                          Offerings                     1002      10000     
+
+9         	Ibe                          Sweet Project                 1098      592       
+
+10        	Kollasch                     Ceremonial Sticks             1096      15000     
+
+10        	Kollasch                     Funnel                        1072      4500      
+
+10        	Kollasch                     Medicine Man                  1047      2500      
+
+10        	Kollasch                     Tired Cowboy                  1028      4700      
+
+10        	Kollasch                     Shadow House                  1113      5500      
+
+10        	Kollasch                     Life Lessons                  1089      4125      
+
+10        	Kollasch                     Comfy Chair                   1048      800       
+
+11        	Lerman                       Off the Grid                  1090      8000      
+
+11        	Lerman                       Starry Night                  1115      8500      
+
+12        	Metz                         Spring Flowers                1003      2400      
+
+12        	Metz                         End of the Path               1008      1900      
+
+13        	Novarre                      Coming Under Fire             1081      650       
+
+13        	Novarre                      Dark Canyon                   1112      8000      
+
+14        	Ortega                       Treachery                     1039      20000     
+
+14        	Ortega                       Crying Hats                   1102      10000     
+
+14        	Ortega                       Amen                          1009      3000      
+
+14        	Ortega                       Ash Bench                     1030      13000     
+
+14        	Ortega                       House Remembered              1006      700       
+
+14        	Ortega                       Immediate Gratification       1046      1500      
+
+14        	Ortega                       Plenty                        1014      500       
+
+14        	Ortega                       Punch                         1015      10000     
+
+14        	Ortega                       Ride the Bronco               1076      1500      
+
+15        	Parker                       Dancing in the Light          1073      4000      
+
+15        	Parker                       Creosote Bushes               1043      18000     
+
+15        	Parker                       Inside/Out                    1031      3500      
+
+15        	Parker                       Shooting the Rapids           1023      1300      
+
+15        	Parker                       Meteor Show                   1105      10000     
+
+16        	Penn                         American Rodeo                1052      3500      
+
+16        	Penn                         Chuckwagon                    1078      32000     
+
+16        	Penn                         Striking It Rich              1107      1750      
+
+16        	Penn                         Mountain Climber              1027      4700      
+
+16        	Penn                         Three Woman                   1087      20000     
+
+17        	Pierobon                     Dwelling                      1059      16000     
+
+17        	Pierobon                     Night Version                 1041      3800      
+
+17        	Pierobon                     Night Version                 1051      7000      
+
+17        	Pierobon                     Nature/Nurture                1035      1300      
+
+17        	Pierobon                     Homage to the Ancestors       1007      1200      
+
+18        	Prinzen                      The Hang                      1005      8000      
+
+18        	Prinzen                      Spring Flowers                1082      20000     
+
+18        	Prinzen                      Lessons                       1088      3700      
+
+18        	Prinzen                      Life Is Sweet                 1094      25000     
+
+18        	Prinzen                      Night on the Praire           1040      1300      
+
+19        	Quiroz                       Eve                           1011      975       
+
+19        	Quiroz                       Apache Warrior                1116      23000     
+
+19        	Quiroz                       Leaf Patterns                 1045      2100      
+
+19        	Quiroz                       Horse Corral                  1106      12500     
+
+19        	Quiroz                       Moonlite                      1065      1300      
+
+20        	Rath                         Watch That Rattler            1099      900       
+
+20        	Rath                         Horseshoe Falls               1029      15000     
+
+20        	Rath                         Hungry Cowboys                1100      750       
+
+20        	Rath                         Cowboy and Saddle             1062      18000     
+
+20        	Rath                         Dressing Up                   1092      1300      
+
